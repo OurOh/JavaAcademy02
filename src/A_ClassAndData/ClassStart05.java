@@ -4,8 +4,8 @@ public class ClassStart05 {
 
     public static void main(String[] args) {
         //변수에는 참조(주소)값만 복사해서 알려주는 것이다.
+        //student1은 Student클래스의 객체(인스턴스)이자 변수이다.
         Student student1 = new Student();
-        student1.name = "학생1";
         student1.age = 16;
         student1.grade = 80;
 
@@ -27,6 +27,7 @@ public class ClassStart05 {
         // for 3.iter(단축키)
         for (Student s : students) {
             System.out.println("이름 : " + s.name + "나이 : " + s.age + "점수 : " + s.grade);
+            // '변수 s'가 students 배열을 참조하여 돈다.
         }
 
 
