@@ -3,6 +3,7 @@ package B_ref;
 public class MethodChange01 {
 
     public static void main(String[] args) {
+        //기본형
         int a = 10;
         System.out.println("메서드 호출 전 : a = " + a); // 10
         changePrimitive(a);
