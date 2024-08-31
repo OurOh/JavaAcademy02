@@ -1,7 +1,7 @@
 package C_oop1;
 
 public class MusicPlayerMain01 {
-
+    //절차지향
     public static void main(String[] args) {
         int volume = 0;
         boolean isOn = false;
