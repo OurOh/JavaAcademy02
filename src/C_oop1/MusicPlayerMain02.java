@@ -26,8 +26,8 @@ public class MusicPlayerMain02 {
     
     //메서드 만들기
     static void on(MusicPlayerData data) {
-        data.isOn = false;
-        System.out.println("음악 플레이어를 종료합니다.");
+        data.isOn = true;
+        System.out.println("음악 플레이어를 시작합니다.");
     }
 
     static void off(MusicPlayerData data) {
