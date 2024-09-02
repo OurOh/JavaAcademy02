@@ -5,8 +5,8 @@ public class RectangleProceduralMain {
 
         int width = 5;
         int height = 8;
-        int area = calculateArea(width, height);
 
+        int area = calculateArea(width, height);
         System.out.println("넓이: " + area);
 
         int perimeter = calculatePerimeter(width, height);

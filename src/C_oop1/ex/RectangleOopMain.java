@@ -15,5 +15,7 @@ public class RectangleOopMain {
 
         boolean square = rectangle.isSquare();
         System.out.println("정사각형 여부: " + square);
+
+        //C+ALT+ V 단축키 활용하기.
     }
 }
