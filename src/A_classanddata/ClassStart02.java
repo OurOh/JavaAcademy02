@@ -1,4 +1,4 @@
-package A_ClassAndData;
+package A_classanddata;
 
 public class ClassStart02 {
     public static void main(String[] args) {

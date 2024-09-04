@@ -1,4 +1,4 @@
-package A_ClassAndData;
+package A_classanddata;
 
 public class Student {
     // 클래스, 설계도라고 볼 수 있음.

@@ -1,4 +1,4 @@
-package A_ClassAndData.ex;
+package A_classanddata.ex;
 
 public class MovieReviewMain02 {
 

@@ -1,4 +1,4 @@
-package A_ClassAndData;
+package A_classanddata;
 
 public class ClassStart05 {
 
