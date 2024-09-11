@@ -6,7 +6,6 @@ public class DecoData {
     private static int staticValue;
 
     public static void staticCall() {
-
     //instanceValue++; //인스턴스 변수 접근, compile error
     //instanceMethod(); //인스턴스 메서드 접근, compile error
         staticValue++; //정적 변수 접근
